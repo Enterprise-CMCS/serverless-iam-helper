@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/458c703ff75ec8c2e973/maintainability)](https://codeclimate.com/github/CMSgov/serverless-iam-helper/maintainability)
+
 # Serverless IAM Helper Plugin
 
 This plugin intends to help apply IAM Path and PermissionsBoundary properties to hard to reach IAM roles, but conditionally applies to all.
